@@ -1,50 +1,5 @@
-.Nav {
-    background-color: rgba(0,0,0,.5);
-    
-    color: #fff;
-    list-style-type: none;
-    text-align: center;
-    color: rgb(147, 143, 13);
-    
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    display:inline;
-    background-image: url('https://www.thefandomentals.com/wp-content/uploads/2017/01/Barry-The-Flash-TV-Series-e1485918392287.jpg?ezimgfmt=ng%3Awebp%2Fngcb2');
-  
-    
-}
-
-.box2 {
-    background-color: rgba(0,0,0,.5);
-    
-    color: #fff;
-   
-   
-    
-  
-  
-  
-}
-
-.Points {
-    background-color: rgba(0,0,0,.5);
-    
-    color: #fff;
-    list-style-type: none;
-    text-align: center;
-    margin: 25;
-    
-    display:flex;
-    
-    
-}
-
 body {
-    background-color: #800000;
-    font-family: "Garamond", serif;
-    font-size: 25px;
-    background-image:url("https://www.freepnglogos.com/uploads/the-flash-png/the-flash-rubies-flash-muscle-chest-adult-superhero-costume-8.png");
+    background-image: url(https://mcdn.wallpapersafari.com/medium/99/56/HlSBo4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -58,23 +13,14 @@ body {
 }
 
 
-//.content-container {
-    min-height: calc(100vh - 34px);
-  }
-  
-
-  .footer--pin {
-    position: relative;
-    left: 0;
-    bottom: 0;
-  }
-  
-
-ul {
+.Nav {
     list-style-type: none;
-   
-    background-color: #333;
-  }
+    text-align: center;
+    color: rgb(147, 143, 13);
+    
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:inline;
 
-
-  
+}

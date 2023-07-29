@@ -13,13 +13,14 @@ import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 import Home from './Components/Home.js'
 import About from './Components/About.js'
 import Feats from './Components/Feats.js'
-import Style from './Components/Style.css'
+import Style from '.'
 import FeatsList from './Components/FeatsList.js'
 import { Container } from 'react-bootstrap'
 import Sightings from './Components/Sightings.js'
 import SightList from './Components/SightList.js'
 import Tips from './Components/Contact.js'
 import Contact from './Components/Contact.js'
+import BlogApi from './Components/BlogApi.js'
 
 
 /** Instruction:

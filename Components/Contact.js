@@ -9,8 +9,8 @@ export default function Contact () {
     return (
         <Container className="box">
             <footer className="footer--pin">
-            <h3>Got a tip, or a story you want to share?</h3>
-            <p>Share below, and it might just end up on my blog!</p>
+            <h3>Got a tip or a story you want to share?</h3>
+            <p>Share below and it might just end up on my blog!</p>
 
             <TipsForm />
             </footer>

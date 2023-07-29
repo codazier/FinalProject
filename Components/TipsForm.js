@@ -9,7 +9,7 @@ export default function TipsForm() {
     return (
         <form>
         <label>
-          Share Here ==>
+          Share Here -->
           <input type="text" name="Share Here!" />
         </label>
         <input type="submit" value="Submit" />
