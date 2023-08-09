@@ -15,12 +15,13 @@ import About from './Components/About.js'
 import Feats from './Components/Feats.js'
 import Style from '.'
 import FeatsList from './Components/FeatsList.js'
-import { Container } from 'react-bootstrap'
+import  {Container}  from 'react-bootstrap'
 import Sightings from './Components/Sightings.js'
 import SightList from './Components/SightList.js'
 import Tips from './Components/Contact.js'
 import Contact from './Components/Contact.js'
 import BlogApi from './Components/BlogApi.js'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 /** Instruction:
